@@ -1,1 +1,1 @@
-# appProject1
+# this ia a project about learning vue
